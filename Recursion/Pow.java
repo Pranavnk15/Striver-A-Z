@@ -15,7 +15,6 @@
 // Output: 0.25000
 // Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
-
 class Solution {
     public double myPow(double x, int n) {
         if(n == 0) {
